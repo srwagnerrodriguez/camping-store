@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tienda de Camping</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+
+    header {
+      background: #222;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    main {
+      padding: 2rem;
+      text-align: center;
+    }
+
+    footer {
+      background: #222;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>⛺ Tienda de Camping</h1>
+    <p>Minimalista, limpia y fácil de navegar</p>
+  </header>
+
+  <main>
+    <h2>Próximamente nuestros productos</h2>
+    <p>Aquí podrás ver casas de campaña y artículos de camping.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Tienda de Camping</p>
+  </footer>
+</body>
+</html>
